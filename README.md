@@ -23,11 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eshan shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshan shukla" height="30" width="40" /></a>
-<a href="https://kaggle.com/eshan shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eshan shukla" height="30" width="40" /></a>
-<a href="https://instagram.com/eshan shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshan shukla" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/eshan shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eshan shukla" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lumiash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lumiash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eshan shukla" target="http://linkedin.com/in/eshan-shukla-b48a8a21b"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshan shukla" height="30" width="40" /></a>
+<a href="https://kaggle.com/eshan shukla" target="https://www.kaggle.com/eshanshukla"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eshan shukla" height="30" width="40" /></a>
+<a href="https://instagram.com/eshan shukla" target="https://www.instagram.com/the_e_shaaan/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshan shukla" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/eshan shukla" target="https://www.hackerrank.com/1641530023AIML"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eshan shukla" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lumiash" target="https://leetcode.com/Lumiash/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lumiash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
