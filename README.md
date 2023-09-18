@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eshan shukla" target="http://linkedin.com/in/eshan-shukla-b48a8a21b"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshan shukla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eshan-shukla-b48a8a21b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshan shukla" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/eshanshukla" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eshan shukla" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the_e_shaaan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshan shukla" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/1641530023AIML" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eshan shukla" height="30" width="40" /></a>
