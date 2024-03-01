@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **eshan90shukla@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13dww4znDFSrGUSdzQL-u2ZAGK4YlHcUP/view?usp=sharing](https://drive.google.com/file/d/13dww4znDFSrGUSdzQL-u2ZAGK4YlHcUP/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13dww4znDFSrGUSdzQL-u2ZAGK4YlHcUP/view?usp=sharing](https://drive.google.com/file/d/10eEfoi3cLqJNChHTH70I3fxM85Uvu4vE/view?usp=drive_link)
 
 - ⚡ Here's a tidbit about me: **CS student on a journey fueled by my love for coding and a deep fascination for the intricacies of machine learning.**
 
